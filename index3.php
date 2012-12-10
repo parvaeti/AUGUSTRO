@@ -10,7 +10,7 @@
     <li class="nav-item">
         <button class="btn btn-secondary"> <a class="nav-link" href="index.php">𝔹𝔸ℂ𝕂</a></button>
       </li>
-    <div class="condtion">
+    <div class="container">
        
         <div class="row">
             <div class="col "></div>

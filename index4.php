@@ -12,7 +12,7 @@
         <button class="btn btn-secondary" type="button"></index></button>
         
       </div>
-    <div class="condition">
+    <div class="container">
         <li class="nav-item">
             <button class="btn btn-secondary"> <a class="nav-link" href="index.php">𝔹𝔸ℂ𝕂</a></button>
           </li>
