@@ -21,6 +21,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="index5.">𝘉𝘌𝘚𝘛 𝘚𝘌𝘓𝘓𝘌𝘙𝘚</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
          𝘑𝘖𝘐𝘕 𝘖𝘜𝘙 𝘊𝘖𝘔𝘔𝘜𝘕𝘐𝘛𝘠
