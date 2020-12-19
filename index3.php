@@ -7,9 +7,6 @@
     <title>☸ ＡＵＧＵＳＴＲＯ - 𝓢𝓘𝓖𝓝 𝓤𝓟</title>
 </head>
 <body>
-    <li class="nav-item">
-        <button class="btn btn-secondary"> <a class="nav-link" href="index.php">𝔹𝔸ℂ𝕂</a></button>
-      </li>
     <div class="container">
        
         <div class="row">
@@ -18,13 +15,8 @@
                 <table class="table">
                     
                            <h1>  ⫷  𝓢𝓘𝓖𝓝 𝓘𝓝  ⫸ </h1>
-                           <tr>
-                               <td></td>
-                               <td></td>
-                           </tr>
-                    
-                   
-                   
+                          
+                      
                     <tr>
                         <td>EᗰᗩIᒪ :</td>
                         <td><input type="text" class="form-control"></td>
@@ -35,14 +27,16 @@
                     </tr>
                    
                     <tr>
-                        <td></td>
-                        <td><button class="btn btn-secondary">ＳＩＧＮ ＩＮ</button></td>
+                        <td><a class="btn btn-secondary" href="index.php" role="button">🌷 ＢＡＣＫ  
+                        </a></td>
+                        <td><button class="btn btn-dark">ＳＩＧＮ ＩＮ</button></td>
                     </tr>
                 </table>
             </div>
             <div class="col"></div>
         </div>
     </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </body>
 </html>

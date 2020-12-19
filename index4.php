@@ -8,31 +8,27 @@
     <title>☸ ＡＵＧＵＳＴＲＯ </title>
 </head>
 <body>
-    <div class="d-grid gap-2">
-        <button class="btn btn-secondary" type="button"></index></button>
-        
-      </div>
-    <div class="container">
-        <li class="nav-item">
-            <button class="btn btn-secondary"> <a class="nav-link" href="index.php">𝔹𝔸ℂ𝕂</a></button>
-          </li>
+ <div class="container">
+      
         <div class="row">
             <div class="col"></div>
-            <div class="col col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-    <table class="table">
+            <div class="col col-3 col-sm-3 col-md-4 col-lg-3 col-xl-3">
+    <table class="table-borderless">
         <tr>
-            <td>ツ 𝘑𝘜𝘚𝘛 </td>
-            <td>  𝘊𝘙𝘌𝘈𝘛𝘌𝘋 </td>
-           <td>𝘍𝘖𝘙</td>
-            <td>𝘍𝘜𝘕 ツ</td>
-
+            <td>******</td>
+            <td><a class="btn btn-secondary" href="index.php" role="button">🌷 ＢＡＣＫ</a></td>
+            
+            
         </tr>
-      
+        <tr>
+            <td>𝙳𝙴𝙼𝙾 𝚆𝙴𝙱𝚂𝙸𝚃𝙴 𝙵𝙾𝚁 𝚆𝙴𝙱 𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶.</td>
+    </tr>
     </table>
 </div>
-    <div class="col"></div>
+<div class="col"></div>
 
-     </div>     
+     </div> 
+    
      </div>
      
     

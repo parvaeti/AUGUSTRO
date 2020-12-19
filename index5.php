@@ -7,16 +7,14 @@
     <title>☸ ＡＵＧＵＳＴＲＯ</title>
 </head>
 <body>
-   <h3></h3> <li class="nav-item"></h3>
-        <button class="btn btn-dark"> <a class="nav-link" href="index.php ">𝔹𝔸ℂ𝕂</a></button>
-      </li>
+  <td><a class="btn btn-dark" href="index.php" role="button">🌷 ＢＡＣＫ  
+  </a></td>
     <h1>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄</h1>
     <h2>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ⒷⒺⓈⓉ ⓈⒺⓁⓁⒾⓃⒼ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
     </h2>
  <div class="container">
      <div class="row">
-         <div class="col">
-    
+      <div class="col">  
     <div class="card mb-3" style="max-width: 540px;">
         <div class="row g-0">
           <div class="col-md-4">
@@ -32,7 +30,7 @@
         </div>
       </div>
     </div>
-    <div class="col">
+         <div class="col">
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -48,9 +46,10 @@
             </div>
           </div>
     </div>
-</div>
-<div class="row">
-    <div class="col">
+  </div>
+
+     <div class="row">
+      <div class="col">
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -65,7 +64,9 @@
               </div>
             </div>
           </div>
-          <div class="col"><div class="card mb-3" style="max-width: 540px;">
+          </div>
+          <div class="col">
+          <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
                 <img src="intersell.jpg" alt="..." height="300" width="150">
@@ -74,15 +75,13 @@
                 <div class="card-body">
                   <h5 class="card-title">𝘐𝘕𝘛𝘌𝘙𝘚𝘛𝘌𝘓𝘓𝘈𝘙 </h5>
                   <p class="card-text">The Science of Interstellar is a non-fiction book by American theoretical physicist and Nobel laureate Kip Thorne, with a foreword by Christopher Nolan.</p>
-                
+                </div>
                 </div>
               </div>
             </div>
-          </div></div>
-         
-              </div>
           </div>
-    </div>
+          </div>
+         
 </div>
 </div>
 
