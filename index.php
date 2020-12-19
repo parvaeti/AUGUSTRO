@@ -85,9 +85,14 @@
       </tr>
     </table>
      </div>
-    </div>
-    
-     <div class="row">
+    </div> 
+    <div class="row">
+      <div class="col"></div>
+      <div class="col col-4 col-sm-4 col-md-4 col-lg-4 col-xl-6">
+      ❝ 𝘐𝘚 𝘖𝘝𝘌𝘙𝘈𝘓𝘓 𝘛𝘏𝘌 𝘉𝘌𝘚𝘛 𝘈𝘕𝘋 𝘔𝘖𝘚𝘛 𝘊𝘖𝘕𝘝𝘌𝘐𝘕𝘐𝘌𝘕𝘛 𝘋𝘌𝘈𝘓 𝘍𝘙𝘖𝘔 𝘖𝘕𝘓𝘐𝘕𝘌 𝘙𝘌𝘈𝘋𝘐𝘕𝘎 ❞
+      </div>
+      <div class="col"></div>
+      <div class="row">
       <label for="exampleDataList" class="form-label"></label>
      
      
@@ -155,8 +160,9 @@
       </div>
     </div>
   </div>
-     
-    </div>
+  
+  </div>
+   </div>
     
     
   
