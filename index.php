@@ -17,18 +17,18 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.php">𝓗𝓞𝓜𝓔</a>
+            <a class="nav-link active" aria-current="page" href="index.php">𝘏𝘖𝘔𝘌</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="index5.">𝓑𝓔𝓢𝓣 𝓢𝓔𝓛𝓛𝓔𝓡𝓢</a>
+            <a class="nav-link" href="index5.">𝘉𝘌𝘚𝘛 𝘚𝘌𝘓𝘓𝘌𝘙𝘚</a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              𝓙𝓞𝓘𝓝 𝓞𝓤𝓡 𝓒𝓞𝓜𝓜𝓤𝓝𝓘𝓣𝓨
+         𝘑𝘖𝘐𝘕 𝘖𝘜𝘙 𝘊𝘖𝘔𝘔𝘜𝘕𝘐𝘛𝘠
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="index3.php">𝒮𝐼𝒢𝒩 𝐼𝒩</a></li>
-              <li><a class="dropdown-item" href="index2.php">𝒮𝐼𝒢𝒩 𝒰𝒫</a></li>
-              <li><a class="dropdown-item" href="index4.php">𝒦𝒩𝒪𝒲 𝒰𝒮 !</a></li>
+              <li><a class="dropdown-item" href="index3.php">𝘚𝘐𝘎𝘕 𝘐𝘕</a></li>
+              <li><a class="dropdown-item" href="index2.php">𝘚𝘐𝘎𝘕 𝘜𝘗</a></li>
+              <li><a class="dropdown-item" href="index4.php">𝘒𝘕𝘖𝘞 𝘜𝘚</a></li>
             </ul>
           </li>
         </ul>
