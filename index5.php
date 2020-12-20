@@ -9,13 +9,13 @@
 <body>
   <td><a class="btn btn-dark" href="index.php" role="button">🌷 ＢＡＣＫ  
   </a></td>
-    
-    <h2>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 𝙱𝙴𝚂𝚃 𝚂𝙴𝙻𝙻𝙸𝙽𝙶 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
-    </h2>
-    <h3></h3>
  <div class="container">
      <div class="row">
-      <div class="col">  
+      <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6">
+      <h2>ＢＥＳＴ ＳＥＬＬＩＮＧ ＢＯＯＫＳ</h2>
+</div>
+<div class="row">
+<div class ="col">  
     <div class="card mb-3" style="max-width: 540px;">
         <div class="row g-0">
           <div class="col-md-4">
@@ -31,7 +31,7 @@
         </div>
       </div>
     </div>
-         <div class="col">
+         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6">
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -50,7 +50,7 @@
   </div>
 
      <div class="row">
-      <div class="col">
+      <div class="col col col-8 col-sm-12 col-md-12 col-lg-12 col-xl-6">
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -66,7 +66,7 @@
             </div>
           </div>
           </div>
-          <div class="col">
+          <div class="col col col-8 col-sm-12 col-md-12 col-lg-12 col-xl-6">
           <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-4">
