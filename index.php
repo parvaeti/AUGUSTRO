@@ -20,7 +20,7 @@
             <a class="nav-link active" aria-current="page" href="index.php">𝘏𝘖𝘔𝘌</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="index5.">𝘉𝘌𝘚𝘛 𝘚𝘌𝘓𝘓𝘌𝘙𝘚</a>
+            <a class="nav-link" href="index5.php">𝘉𝘌𝘚𝘛 𝘚𝘌𝘓𝘓𝘌𝘙𝘚</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -50,14 +50,14 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="augestraimage.jpg" class="d-block w-100" alt="..." height="400 " width=" 100">
+                    <img src="augestraimage.jpg" class="d-block w-100" alt="..." height="400 " width="100">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>𝑅𝐸𝒜𝒟 𝒲𝐼𝒯𝐻💮𝒰𝒯 𝐿𝐼𝑀𝐼𝒯𝒮</h5>
                       <p>𝒰𝓃𝓁𝒾𝓂𝒾𝓉𝑒𝒹 𝒷𝑜𝑜𝓀𝓈 𝒶𝓃𝒹 𝒶𝓊𝒹𝒾𝑜 𝒷𝑜𝑜𝓀</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="augestraimage2.jpg" class="d-block w-100" alt="..." height="400 " width=" 100">
+                    <img src="augestraimage2.jpg" class="d-block w-100" alt="..." height="400 " width="100">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>𝒰𝓃𝓁𝒾𝓂𝒾𝓉𝑒𝒹 𝒷𝑜𝑜𝓀𝓈 𝒶𝓃𝒹 𝒶𝓊𝒹𝒾𝑜 𝒷𝑜𝑜𝓀</h5>
                       
